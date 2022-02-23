@@ -1,5 +1,8 @@
 package sk.stuba.fei.uim.oop;
 
 public class App {
-    int a = 0;
+    public static void main(String [] args){
+        System.out.println("Hello world");
+    }
+
 }
